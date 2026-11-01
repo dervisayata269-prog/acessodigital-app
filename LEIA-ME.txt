@@ -1,0 +1,19 @@
+SITE — 65.146.702 Nilo Quadros Weber
+
+Arquivos:
+- index.html: página principal
+- styles.css: estilos personalizados
+- sobre.html: página Sobre
+- privacidade.html: Política de Privacidade
+- termos.html: Termos de Uso
+- assets/: imagens fornecidas
+
+Como publicar:
+1. Extraia todos os arquivos mantendo a pasta assets.
+2. Envie o conteúdo para a pasta pública do seu provedor (por exemplo, public_html).
+3. Abra index.html no navegador para testar.
+
+Observações:
+- Bootstrap 5.3.3 e Bootstrap Icons são carregados por CDN; é necessária conexão à internet.
+- Revise os textos legais com um profissional, especialmente antes de configurar Google Ads, Analytics ou pixels de conversão.
+- O site não inclui formulário de coleta de dados; o contato ocorre por telefone, e-mail e WhatsApp.
